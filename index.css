@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navstyling{
+    background-color:plum;
+    height: 70px;
+    border: 1px double #e87b7b;
+    border-radius: 15px;
+}
+.homestyle{
+    border: 1px solid #e87b7b;
+    border-radius: 25px;
+    margin-top: 25px;
+    min-height: 280px;
+}
+.footerstyling{
+    width: 100%;
+    min-height: 90px;
+    background-color:rgb(22, 168, 220);
+    border-radius: 20px;
+   
+}
+.footerstyling>h1{
+    color: aliceblue;
+    text-align: center;
+}
+.footerstyling>h1>a>svg{
+    color: aliceblue;
+    text-align: center;
+}
+.socialmedia>a{
+    color: aliceblue;
+    margin-left: 10px;
+}
+button{
+    margin-left:60px;
+    padding: 05px;
+    background-color:rgb(234, 114, 228);
+    border: 2px double black;
+
+}
